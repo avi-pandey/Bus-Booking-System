@@ -1,0 +1,23 @@
+
+.bus-image {
+    background-image: url("../bus_img.jpg");
+    background-color: #06353d;
+    height: 100vh;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: 100%;
+    position: relative;
+}
+html{
+    background-image: url("../bus_img.jpg");
+    background-repeat: repeat;
+
+
+}
+.padding-right{
+    padding-right: 5em;
+}
+.margin-top-6em{
+    margin-top: 6em;
+}
+.card-op { background-color: rgba(177, 171, 171, 0.5); }
